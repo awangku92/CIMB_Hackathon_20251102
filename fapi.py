@@ -51,13 +51,3 @@ def score(transaction: Transaction):
         "fraud_score": round(score, 4)
     }
 
-# payload = {
-    # "TransactionAmount": 1500,
-    # "TransactionDuration": 12,
-    # "LoginAttempts": 2,
-    # "AccountBalance": 25000,
-    # "CustomerAge": 40
-# }
-
-# Architecture diagram
-# Slides
